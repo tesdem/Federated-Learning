@@ -8,27 +8,6 @@ markdown
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Quick Start](#-quick-start)
-- [Dataset Description](#-dataset-description)
-- [Model Architecture](#-model-architecture)
-- [Algorithms Implemented](#-algorithms-implemented)
-- [Performance Expectations](#-performance-expectations)
-- [Project Structure](#-project-structure)
-- [Installation Guide](#-installation-guide)
-- [Step-by-Step Notebook Guide](#-step-by-step-notebook-guide)
-- [Key Results & Insights](#-key-results--insights)
-- [Privacy & Confidentiality](#-privacy--confidentiality)
-- [Visualization Examples](#-visualization-examples)
-- [Decision Framework](#-decision-framework)
-- [Customization Guide](#-customization-guide)
-- [Troubleshooting](#-troubleshooting)
-- [Advanced Topics](#-advanced-topics)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Citation](#-citation)
-
 ---
 
 ## 📋 Overview
